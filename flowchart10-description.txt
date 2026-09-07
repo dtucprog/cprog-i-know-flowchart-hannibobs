@@ -1,0 +1,6 @@
+I water my plant every n days using m amount of water.
+I check how many days have passed since the last watering.
+If it has been n days, I go and get water.
+If the amount of water is less m, I get more water.
+If the amount of water is greater than m, I remove excess water.
+When the water amount equals m, I water the plant.
